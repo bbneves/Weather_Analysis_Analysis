@@ -3,7 +3,7 @@ config.py
 
 #Adding other files
 API_practice.ipynb
-random_numbers.ipynp
+random_numbers.ipynb
 
 #Adding DS-Store
 .DS_Store
